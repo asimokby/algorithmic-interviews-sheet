@@ -9,7 +9,7 @@ The sheet contains 3 levels A, B, and C. Currently, A is fully done. B is almost
 All the solutions are in Python. Feel free to solve them in any other langauge.
 
 ### Contribution
-You may solve any unsolved questions, or provide a solution in a different language. Your PR will be merged only if your solution is complete. 
+You may solve any unsolved questions improve, an existing solution, or provide a solution in a different language. Your PR will be merged only if your solution is complete. 
 
 
 
